@@ -1,0 +1,2 @@
+rootProject.name = "Anytime Shopping List"
+include ':app'
